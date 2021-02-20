@@ -81,18 +81,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
 ### Built With
 
-* []()
-* []()
-* []()
-
-
+* [rumps](https://github.com/jaredks/rumps)
+* [py2app](https://pypi.org/project/py2app/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -170,16 +162,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@econoben](https://twitter.com/econoben) - benjaminlabaschin@gmail.com
 
 Project Link: [https://github.com/EconoBen/headsdown](https://github.com/EconoBen/headsdown)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
 
 
 
