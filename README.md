@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="images/logo.png" width="350" title="Logo">
+  <img src="images/logo.png" title="Logo">
   <h3 align="center">Heads Down</h3>
 
   <p align="center">
