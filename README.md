@@ -27,9 +27,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/EconoBen/headsdown">
-    <img src="images/icon.icns" alt="Logo" width="80" height="80">
+    ![](images/icon.icns)
   </a>
-
+å
   <h3 align="center">Heads Down</h3>
 
   <p align="center">
