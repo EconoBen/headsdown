@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](Heads Down.mp4)
+![](Heads_Down.gif)
 
 ### Built With
 
