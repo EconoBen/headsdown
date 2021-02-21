@@ -5,6 +5,7 @@ import csv
 from pathlib import Path
 
 # to do:
+## add optionality for which apps to reopen
 ## add optionality to close_apps() function, record for reopening after session
 ## explicitly apps in close_apps()?
 
@@ -38,13 +39,20 @@ def close_apps():
     """
     closes potentially distracting apps
     """
-    pids = subprocess.check_output(["ps aux | grep -v grep |grep -i Slack.app | awk '{print $2;}'"],
-                                    shell=True, text=True).split("\n")[:-1]
-    if isinstance(pids, list):
-        for pid in pids:
-            os.system(f"kill {pid}")
-    else:
-        os.system(f"kill {pids}")
+    # get relevant apps
+    app_list = subprocess.check_output(["ls /Applications"],shell=True, text=True)
+    apps = ['Firefox.app', 'Brave Browser.app', 'Chrome.app', 'Safari.app', 'Slack.app']
+    apps = [app for app in apps if app in app_list]
+
+    # kill apps
+    for app in apps:
+        pids = subprocess.check_output([f"ps aux | grep -v grep |grep -i '{app}' " + "| awk '{print $2;}'"],
+                                        shell=True, text=True).split("\n")[:-1]
+        if isinstance(pids, list):
+            for pid in pids:
+                os.system(f"kill {pid}")
+        else:
+            os.system(f"kill {pids}")
 
 def open_apps():
     """Opens apps that were closed upon invoking heads_down()
@@ -95,7 +103,7 @@ class HeadsDownApp(object):
             sender (rumps.Response): Response object, 1 or 0, sent from Rumps Menu item
         """
         block_websites(0)
-        open_apps()
+       # open_apps()
         sender.set_callback(None)
         self.start.set_callback(self.heads_down)
     
