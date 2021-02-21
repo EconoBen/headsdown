@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  ![](images/logo.png?raw=true "Title")
+  ![](images/logo.png)
   <h3 align="center">Heads Down</h3>
 
   <p align="center">
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](Heads_Down.gif)
+![](images/Heads_Down.gif)
 
 ### Built With
 
