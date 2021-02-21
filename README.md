@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    ![](images/icon.icns)
+    ![](images/icon.png)
   <h3 align="center">Heads Down</h3>
 
   <p align="center">
