@@ -26,10 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/EconoBen/headsdown">
     ![](images/icon.icns)
-  </a>
-å
   <h3 align="center">Heads Down</h3>
 
   <p align="center">
