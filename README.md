@@ -21,7 +21,7 @@
   <h1 align="center">Heads Down</h1>
 
 <p align="center">
-  <a href="https://github.com/EconoBen/headsdown/network" alt="GitHub forks">
+  <a href="https://github.com/EconoBen/headsdown/network/members" alt="GitHub forks">
         <img src="https://img.shields.io/github/forks/EconoBen/headsdown" /></a>
   
   <a href="https://github.com/EconoBen/headsdown/stargazers" alt="GitHub stars">
