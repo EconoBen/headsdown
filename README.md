@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="images/logo.png" title="Logo" height="130">
-  <h3 align="center">Heads Down</h3>
+  <img src="images/logo.png" title="Logo" height="400">
+  <h2 align="center">Heads Down</h2>
 
 <p align="center">
   <a href="https://github.com/EconoBen/headsdown/network" alt="GitHub forks">
