@@ -6,6 +6,16 @@ Usage:
 """
 
 from setuptools import setup
+import subprocess
+
+## ensure developer tools are installed
+
+# if xcode exists move on, else install
+result = subprocess.check_output(["xcode-select --version"],shell=True, text=True)
+if "version" not in result:
+    subprocess.check_output(["xcode-select --install"],shell=True)
+
+## run setup
 
 APP = ['headsdown.py']
 DATA_FILES = ['block_sites.csv']
