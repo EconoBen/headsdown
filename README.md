@@ -14,6 +14,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <img src="images/logo.png" title="Logo" height="130>
+  <h3 align="center">Heads Down</h3>
+
 <p align="center">
   <a href="https://github.com/EconoBen/headsdown/network" alt="GitHub forks">
         <img src="https://img.shields.io/github/forks/EconoBen/headsdown" /></a>
@@ -27,13 +33,7 @@
   <a href="https://github.com/EconoBen/headsdown/blob/main/LICENSE" alt="GitHub license">
         <img src="https://img.shields.io/github/license/EconoBen/headsdown" /></a>
 </p>
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <img src="images/logo.png" title="Logo">
-  <h3 align="center">Heads Down</h3>
-
+<!-- Shields -->
   <p align="center">
     A Mac app that lives in your ribbon—with a click of the mouse, temporarily block distracting websites and applications to encourage "heads down" time.
     <br />
