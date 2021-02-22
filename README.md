@@ -14,12 +14,18 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<p align="center">
+  <a href="https://github.com/EconoBen/headsdown/network" alt="GitHub forks">
+        <img src="https://img.shields.io/github/forks/EconoBen/headsdown" /></a>
+  
+  <a href="https://github.com/EconoBen/headsdown/stargazers" alt="GitHub stars">
+        <img src="https://img.shields.io/github/stars/EconoBen/headsdown" /></a>
+  
+  <a href="https://github.com/EconoBen/headsdown/issues" alt="GitHub issues">
+        <img src="https://img.shields.io/github/issues/EconoBen/headsdown" /></a>
 
-[![GitHub forks](https://img.shields.io/github/forks/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/network)
-[![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
-[![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
-
+  <a href="https://github.com/EconoBen/headsdown/blob/main/LICENSE" alt="GitHub license"><img src="https://img.shields.io/github/license/EconoBen/headsdown" /></a>
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
