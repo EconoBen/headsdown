@@ -68,8 +68,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  <p align="center">
-  This project was inspired by a tweet. The person in question had a simple request: how can I block distracting apps and websites when I'm trying to work? With Heads Down, you can easily block and unblock websites and apps with a click of the mouse.
+  <p align="left">
+  This project was inspired by a tweet.
+  <br />
+  <p align="left">
+  The person in question had a simple request: how can I block distracting apps and websites when I'm trying to work?
+  <br />
+  <p align="left">
+  With Heads Down, you can easily block and unblock websites and apps with a click of the mouse.
   <br />
 
 ### Built With
@@ -117,7 +123,7 @@ To get a local copy up and running follow these simple steps.
 ![](images/Heads_Down.gif)
 
 <p align="left">
-Heads down comes with a list of predefined social media websites to block (see `block_sites.csv`). To add to the block list, simply select the "block sites" button and a popup window in which to add websites will appear.
+Heads down comes with a list of predefined social media websites to block (see [block_sites.csv](https://github.com/EconoBen/headsdown/blob/main/block_sites.csv)). To add to the block list, simply select the "block sites" button and a popup window in which to add websites will appear.
 <br />
 <p align="left">
 To begin a work session, simply cick on the "Heads Down" button. When you're done, select "Heads Up". It's that easy.
