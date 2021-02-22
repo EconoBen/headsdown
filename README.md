@@ -24,7 +24,8 @@
   <a href="https://github.com/EconoBen/headsdown/issues" alt="GitHub issues">
         <img src="https://img.shields.io/github/issues/EconoBen/headsdown" /></a>
 
-  <a href="https://github.com/EconoBen/headsdown/blob/main/LICENSE" alt="GitHub license"><img src="https://img.shields.io/github/license/EconoBen/headsdown" /></a>
+  <a href="https://github.com/EconoBen/headsdown/blob/main/LICENSE" alt="GitHub license">
+        <img src="https://img.shields.io/github/license/EconoBen/headsdown" /></a>
 </p>
 
 <!-- PROJECT LOGO -->
