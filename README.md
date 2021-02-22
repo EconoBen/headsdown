@@ -102,7 +102,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
     ```sh
-    https://github.com/EconoBen/headsdown.git
+    git clone https://github.com/EconoBen/headsdown.git
     ```
 2. Change the directory
     ```sh
