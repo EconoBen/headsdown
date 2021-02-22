@@ -61,6 +61,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#troubleshooting">Troubleshooting</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -139,7 +140,13 @@ To begin a work session, simply cick on the "Heads Down" button. When you're don
 
 _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
+<!-- TROUBLESHOOTING -->
+## Troubleshooting
 
+1. setup.py returns an error like (`libpython3.8.dylib' does not exist`)
+    ```sh
+    ln -s PATH/TO/FILE/libpython3.8m.dylib PATH/TO/FILE/libpython3.8.dylib
+    ```
 
 <!-- ROADMAP -->
 ## Roadmap
