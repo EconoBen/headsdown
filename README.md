@@ -15,11 +15,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![GitHub forks](https://img.shields.io/github/forks/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/network)
+[![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/EconoBen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-labaschin)
 
 
 
