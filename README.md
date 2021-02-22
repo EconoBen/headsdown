@@ -19,8 +19,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
 [![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/EconoBen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-labaschin)
+[![Twitter]([![Twitter](https://img.shields.io/twitter/url?style=social)]](https://www.twitter.com/EconoBen)
+[![LinkedIn](https://img.shields.io/LinkedIn/url?style=social)](https://www.linkedin.com/in/benjamin-labaschin)
 
 
 
@@ -33,11 +33,7 @@
   <p align="center">
     A Mac app that lives in your ribbon—with a click of the mouse, temporarily block distracting websites and applications to encourage "heads down" time.
     <br />
-    <a href="https://github.com/EconoBen/headsdown"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/EconoBen/headsdown">View Demo</a>
-    ·
     <a href="https://github.com/EconoBen/headsdown/issues">Report Bug</a>
     ·
     <a href="https://github.com/EconoBen/headsdown/issues">Request Feature</a>
@@ -72,8 +68,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![](images/Heads_Down.gif)
+  <p align="center">
+  This project was inspired by a tweet. The person in question had a simple request: how can I block distracting apps and websites when I'm trying to work? With Heads Down, you can easily block and unblock websites and apps with a click of the mouse.
+  <br />
 
 ### Built With
 
@@ -116,6 +113,16 @@ To get a local copy up and running follow these simple steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+![](images/Heads_Down.gif)
+
+<p align="left">
+Heads down comes with a list of predefined social media websites to block (see `block_sites.csv`). To add to the block list, simply select the "block sites" button and a popup window in which to add websites will appear.
+<br />
+<p align="left">
+To begin a work session, simply cick on the "Heads Down" button. When you're done, select "Heads Up". It's that easy.
+<br />
+
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
