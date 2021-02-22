@@ -19,10 +19,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
 [![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter)](https://www.twitter.com/EconoBen)
-[![LinkedIn](https://img.shields.io/linkedin](https://www.linkedin.com/in/benjamin-labaschin)
-
-
+[![Twitter](https://img.shields.io/logo=twitter)](https://www.twitter.com/EconoBen)
+[![LinkedIn](https://img.shields.io/logo=LinkedIn)](https://www.linkedin.com/in/benjamin-labaschin)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -160,14 +158,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@econoben](https://twitter.com/econoben) - benjaminlabaschin@gmail.com
+Benjamin Labaschin - [@econoben](https://twitter.com/econoben) - benjaminlabaschin@gmail.com
 
 Project Link: [https://github.com/EconoBen/headsdown](https://github.com/EconoBen/headsdown)
 
