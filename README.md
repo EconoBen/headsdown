@@ -19,8 +19,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
 [![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
-[![Twitter]([![Twitter](https://img.shields.io/twitter/url?style=social)]](https://www.twitter.com/EconoBen)
-[![LinkedIn](https://img.shields.io/LinkedIn/url?style=social)](https://www.linkedin.com/in/benjamin-labaschin)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://www.twitter.com/EconoBen)
+[![LinkedIn](https://img.shields.io/linkedin/url?style=social)](https://www.linkedin.com/in/benjamin-labaschin)
 
 
 
@@ -123,7 +123,8 @@ To get a local copy up and running follow these simple steps.
 ![](images/Heads_Down.gif)
 
 <p align="left">
-Heads down comes with a list of predefined social media websites to block (see [block_sites.csv](https://github.com/EconoBen/headsdown/blob/main/block_sites.csv)). To add to the block list, simply select the "block sites" button and a popup window in which to add websites will appear.
+Heads down comes with a list of predefined social media websites to block (see
+<a href="https://github.com/EconoBen/headsdown/blob/main/block_sites.csv">block_sites.csv</a>). To add to the block list, simply select the "block sites" button and a popup window in which to add websites will appear.
 <br />
 <p align="left">
 To begin a work session, simply cick on the "Heads Down" button. When you're done, select "Heads Up". It's that easy.
