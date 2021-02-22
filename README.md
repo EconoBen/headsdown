@@ -15,10 +15,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-https://img.shields.io/github/issues/EconoBen/headsdown
-https://img.shields.io/github/forks/EconoBen/headsdown
-https://img.shields.io/github/stars/EconoBen/headsdown
-https://img.shields.io/github/license/EconoBen/headsdown
+[![Forks]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
