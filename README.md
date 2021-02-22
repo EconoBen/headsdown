@@ -143,7 +143,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_ --
 <!-- TROUBLESHOOTING -->
 ## Troubleshooting
 
-1. setup.py returns an error like (`libpython3.8.dylib' does not exist`). Try running:
+1. setup.py returns an error like (`libpython3.8.dylib does not exist`). Try running:
     ```sh
     ln -s PATH/TO/FILE/libpython3.8m.dylib PATH/TO/FILE/libpython3.8.dylib
     ```
