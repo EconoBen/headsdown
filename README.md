@@ -19,8 +19,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/issues)
 [![GitHub license](https://img.shields.io/github/license/EconoBen/headsdown)](https://github.com/EconoBen/headsdown/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://www.twitter.com/EconoBen)
-[![LinkedIn](https://img.shields.io/linkedin/url?style=social)](https://www.linkedin.com/in/benjamin-labaschin)
+[![Twitter](https://img.shields.io/twitter)](https://www.twitter.com/EconoBen)
+[![LinkedIn](https://img.shields.io/linkedin](https://www.linkedin.com/in/benjamin-labaschin)
 
 
 
